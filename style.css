@@ -496,8 +496,8 @@ strong {
 .bar-container {
     display: flex;
     flex-direction: column;
-    height: 250px;
-    /* Increased height */
+    height: 400px;
+    /* Increased height significantly */
     width: 100px;
     /* Increased width */
     margin: 1rem auto 0;
